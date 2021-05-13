@@ -1,0 +1,1 @@
+ffmpeg -y -framerate 60 -i Proj15_img0000%%04d.jpg outpart1.mp4
